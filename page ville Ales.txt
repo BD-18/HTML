@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Ville d'Alès </title>
+</head>
+
+<body>
+<em> sommaire: </em>
+- page 1
+- page 2
+- page 3
+
+</body>	
+</html>
